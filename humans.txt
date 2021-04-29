@@ -1,0 +1,19 @@
+/* TEAM */
+  Development, Testing & Main Design: Alex Stolz
+  Twitter: @stalsoft
+  Site: http://www.stalsoft.com/
+  Location: Neubiberg, Germany
+
+  Technical Advisor: Martin Hepp
+  Twitter: @mfhepp
+  Site: http://www.heppnetz.de/
+  Location: Neubiberg, Germany
+
+/* SITE */
+  Last update: October 23, 2020
+  Language: English
+  Doctype: HTML5, CSS3, JS
+  IDE: TextMate, GAE, Gimp
+
+/* SPECIAL THANKS */
+  All people who submitted valuable feedback and suggestions for improvement!
